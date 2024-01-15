@@ -1,4 +1,5 @@
 #include<stdio.h>
-void main(){
-printf("Hello World!");
+int main(){
+printf("enter your name:");
+return 0;
 }
